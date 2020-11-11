@@ -1,0 +1,23 @@
+01234567890123456789012345678901234567890123456789012345678901234567890
+
+ProjectName: EnigmaMachine                  Author: Iuliia Lavine
+ScreenName: Output                          Date: November 1, 2020
+
+
+
+
+                             Output
+
+
+
+              
+                 Your message: ############### 
+
+
+
+
+
+
+        
+             Press Y to return to Main Menu
+             Press Z to exit
