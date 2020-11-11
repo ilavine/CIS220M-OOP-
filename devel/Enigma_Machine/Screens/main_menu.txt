@@ -1,0 +1,21 @@
+012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+
+ProjectName: EnigmaMachine                  Author: Iuliia Lavine
+ScreenName: Main Menu                       Date: November 1, 2020
+
+
+
+                                   Main Menu
+								  
+			
+			W - Welcome
+			I - Info
+			E - Encrypter
+                        D - Decrypter
+			O - Output
+			Z - Exit
+			
+			
+		Letters represent screens. Choose a letter to open a screen.
+		
+		Input Z to exit.
