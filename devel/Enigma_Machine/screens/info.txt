@@ -28,6 +28,6 @@ ScreenName: Info                            Date: November 1, 2020
 	Class at Manchester Community College.
 	
 	
-	                      Press Y To Return To The Main Menu
-                                       Press Z To Exit
+	                      Input Y To Return To The Main Menu
+                                       Input Z To Exit
 

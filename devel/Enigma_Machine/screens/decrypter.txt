@@ -20,6 +20,6 @@ ScreenName: Decrypter                      Date: November 1, 2020
 
 
 
-       Press Y to return to Main Menu
-       Press Z to exit
+       Input Y to return to Main Menu
+       Input Z to exit
 
