@@ -1,4 +1,4 @@
-0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 ProjectName: EnigmaMachine                  Author: Iuliia Lavine
 ScreenName: Info                            Date: November 1, 2020
@@ -6,28 +6,25 @@ ScreenName: Info                            Date: November 1, 2020
 
 
                           
-					General Information
+				General Information
 
-			     This Is A Aimulator Of The Enigma Machine
+                    This Is A Aimulator Of The Enigma Machine
 				 
-			
-			
-	The Enigma Machine was used by the Germans as an enryption device during WW2.
-	It belonged to the family of portable ciphers with rotor scramblers and reminded
-	an old-fashioned typewriter. The Enigma Machine was invented by a german engineer 
-	Arthur Scherbius after WW1. 
-	Alan Turing and his team of matematicians cracked the ciphers of the Nazi's Enigma 
-	Machine. 
+The Enigma Machine was used by the Germans as an enryption device 
+during WW2. It belonged to the family of portable ciphers with rotor scramblers 
+and remindedan old-fashioned typewriter. The Enigma Machine was invented by a 
+german engineer Arthur Scherbius after WW1. Alan Turing and his team of matematicians 
+cracked the ciphers of the Nazi's Enigma Machine. 
 	
 	
-	This program proveides encryption and decryption features similar to those that
-	existed in the real Enigma Machine. 
+This program proveides encryption and decryption features similar to those that
+existed in the real Enigma Machine. 
 	
 	
-	This project was prepared by Iuliia Lavine as a part of Object-Oriented Programming 
-	Class at Manchester Community College.
+This project was prepared by Iuliia Lavine as a part of Object-Oriented Programming 
+Class at Manchester Community College.
 	
 	
-	                      Press Y To Return To The Main Menu
-                                       Press Z To Exit
+	         Press Y To Return To The Main Menu
+                 Press Z To Exit
 
