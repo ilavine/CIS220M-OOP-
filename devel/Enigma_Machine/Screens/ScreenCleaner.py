@@ -2,9 +2,6 @@
 Program Name:   ScreenCleaner
 
 
-Writen by:      Iuliia Lavine
-
-
 Date:           1 November 2020
 
 
