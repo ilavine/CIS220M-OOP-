@@ -1,5 +1,5 @@
 '''
-Project Name:  Final CIS 210 M
+Project Name:  Enigma Project
 Program Name:  FileReader.py
 Date:          10 November 2020
 Synopsis:      This program converts file into a list

@@ -1,5 +1,5 @@
 '''
-Project Name:  Final CIS 210 M
+Project Name:  Enigma Project
 Program Name:  Fixer.py
 Date:          10 November 2020
 Synopsis:      This program removes the carriage return line and replaces with a line feed

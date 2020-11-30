@@ -1,8 +1,8 @@
 '''
-Project Name:  Final CIS 210 M
+Project Name:  Enigma Project
 Program Name:  Driver_v2.0.py
 Date:          10 November 2020
-Synopsis:      This is to get screens
+Synopsis:      This is a driver program
 Written by:    Iuliia lavine
 '''
 import Setup as sp

@@ -1,5 +1,5 @@
 '''
-Project Name:  Final CIS 210 M
+Project Name:  Enigma Project
 Program Name:  Setup.py
 Date:          10 November 2020
 Synopsis:      This is to get screens
