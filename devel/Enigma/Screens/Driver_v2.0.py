@@ -11,7 +11,7 @@ import os
 import sys
 
 fr.readFile(sp.getWelcome())
-os.system('cls')
+
     
 class Menu:
     #Display a menu and respond to choices when run
@@ -34,10 +34,10 @@ Press Z To Exit The Application
         
 
     def run(self):
+        
         #Display the menu and respond to choices
         while True:
             self.display()
-            os.system('cls')
             choice = input("Make a selection: ")
             action = self.choices.get(choice)
             if action:
@@ -46,26 +46,26 @@ Press Z To Exit The Application
                 print("{0} is not a valid choice".format(choice))
                 
     def welcome(self):
-        return fr.readFile(sp.getWelcome())
         os.system('cls')
+        return fr.readFile(sp.getWelcome())
 
     def main_menu(self):
-        
+        os.system('cls')   
         return fr.readFile(sp.getMainMenu())
-        os.system('cls')
+        
          
     def decrypter(self):
-        return fr.readFile(sp.getDecrypter())
         os.system('cls')
+        return fr.readFile(sp.getDecrypter())
 
     def encrypter(self):
-        return fr.readFile(sp.getEncrypter())
         os.system('cls')
-
+        return fr.readFile(sp.getEncrypter())
+        
     def info(self):
+        os.system('cls')
         return fr.readFile(sp.getInfo())
-        os.syste,('cls')
-
+        
     def exit(self):
         print("Thank you and see you again soon!")
         sys.exit(0)
