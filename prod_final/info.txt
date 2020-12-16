@@ -1,0 +1,18 @@
+Information
+
+This program provides encryption and decryption features.
+
+You can use a text widget to enter your text or upload
+a text file to encode or decode a message.
+
+This project was prepared by Iuliia Lavine 
+                     as a part of CIS220 Class.
+
+Accepted characters in the program:
+
+<!"().
+0123456789?
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+‚„
+			 
