@@ -44,7 +44,7 @@ def remove(text): #replaces spaces with < and \n (newlines) with &
     
     return newText  
 
-def insert(text): #does the opposite of fixEncrypt def
+def insert(text): #does the opposite of def remove(text)
 	newText = ""
 	for char in text:
 		if char == "<":
